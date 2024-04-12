@@ -1,0 +1,8 @@
+{
+  "name": "Ambicam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "2c75860f"
+}
